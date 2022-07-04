@@ -3,7 +3,7 @@ body {
     margin: 0;
     padding: 0;
 }
-section {
+.container {
     display: flex;
 }
 
@@ -91,3 +91,46 @@ section {
 /*--Second part end*/
 /*--Second part end*/
 
+
+/*-Third part start*/
+/*-Third part start*/
+/*-Third part start*/
+
+.experience {
+    margin-top: 50px;
+    margin-bottom: 60px;
+    background-image: url(image/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.experience h2 {
+    font-size: 40px;
+    padding-left: 7%;
+}
+.third_part {
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 10px 10px 40px gray;
+    padding: 20px;
+}
+.third_part h3 {
+    color:orange;
+}
+.third_part.full {
+    border-left: 8px solid orange;
+}
+.third_part.baby {
+    border-left: 8px solid green;
+}
+
+/*--Third part end*/
+/*--Third part end*/
+/*--Third part end*/
+
+footer {
+    margin-top: 70px;
+}
+footer p{
+    text-align: center;
+}

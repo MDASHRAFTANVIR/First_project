@@ -65,6 +65,11 @@ section {
     background-size: 70%;
     background-position: center;
 }
+.second_half.two {
+    background-image: url(image/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
 .second_half h1{
     font-size: 40px;
 }

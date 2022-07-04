@@ -6,6 +6,11 @@ body {
 section {
     display: flex;
 }
+
+/*--Top Banner Part start--*/
+/*--Top Banner Part start--*/
+/*--Top Banner Part start--*/
+
 .top_banner {
     background-image: url(image/top-banner.png);
     background-repeat: no-repeat;
@@ -38,3 +43,46 @@ section {
 .hire_button {
     margin-top: 50px;
 }
+/*--Top Banner Part End--*/
+/*--Top Banner Part End--*/
+/*--Top Banner Part End--*/
+
+/*--Second part start*/
+/*--Second part start*/ 
+/*--Second part start*/
+
+.second_half {
+    width: 50%;
+    margin-top: 110px;
+    padding-left: 7%;
+}
+.second_half img {
+    width: 60%;
+}
+.second_half.one {
+    background-image: url(image/my-bg2.png);
+    background-repeat: no-repeat;
+    background-size: 70%;
+    background-position: center;
+}
+.second_half h1{
+    font-size: 40px;
+}
+.second_half a {
+    text-decoration: none;
+    padding: 12px 28px;
+    background-image: linear-gradient(gold, orange);
+    color: rgb(54, 32, 3);
+    font-weight: 700;
+}
+.second_half p {
+    padding-right: 40px;
+}
+.resume {
+    margin-top: 50px;
+}
+
+/*--Second part end*/
+/*--Second part end*/
+/*--Second part end*/
+

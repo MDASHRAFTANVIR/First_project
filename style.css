@@ -76,7 +76,7 @@ body {
 .second_half a {
     text-decoration: none;
     padding: 12px 28px;
-    background-image: linear-gradient(gold, orange);
+    background-image: linear-gradient(rgb(201, 175, 30), rgb(231, 162, 35));
     color: rgb(54, 32, 3);
     font-weight: 700;
 }
